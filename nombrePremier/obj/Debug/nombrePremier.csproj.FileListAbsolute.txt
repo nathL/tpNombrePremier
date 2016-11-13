@@ -1,0 +1,5 @@
+c:\users\nathalie\documents\visual studio 2015\Projects\tpNombresPremiers\nombrePremier\obj\Debug\nombrePremier.csprojResolveAssemblyReference.cache
+c:\users\nathalie\documents\visual studio 2015\Projects\tpNombresPremiers\nombrePremier\bin\Debug\nombrePremier.exe
+c:\users\nathalie\documents\visual studio 2015\Projects\tpNombresPremiers\nombrePremier\bin\Debug\nombrePremier.pdb
+c:\users\nathalie\documents\visual studio 2015\Projects\tpNombresPremiers\nombrePremier\obj\Debug\nombrePremier.exe
+c:\users\nathalie\documents\visual studio 2015\Projects\tpNombresPremiers\nombrePremier\obj\Debug\nombrePremier.pdb
